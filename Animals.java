@@ -37,7 +37,7 @@ public class Animals extends Demised implements Species {
 		System.out.println(this.name + "walks around");
 	}
 
-	public Animals() {
+	public Animals() { 
 
 	}
 
